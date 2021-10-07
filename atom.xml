@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>刘伟的博客</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-10-07T08:12:21.928Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>刘伟</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Just for Fun!</title>
+    <link href="http://example.com/2021/10/07/hello/"/>
+    <id>http://example.com/2021/10/07/hello/</id>
+    <published>2021-10-07T03:27:50.000Z</published>
+    <updated>2021-10-07T08:12:21.928Z</updated>
+    
+    <content type="html"><![CDATA[<p>就像Linus所言，Linux的创造仅仅因为“Just for Fun”。<br>我们学习IT技术的源泉也应该来自于与生俱来的好奇心和探索精神。</p><p>2021年国庆节的最后一天，我开启新的博客，这里将要分享的一切都将是好玩的东东（包括技术）！<br>Hope you having fun here！</p><p>参考：</p><ul><li>新博客搭建：<a href="https://jishuin.proginn.com/p/763bfbd2926f">https://jishuin.proginn.com/p/763bfbd2926f</a></li><li>我的老博客：<a href="https://www.cnblogs.com/roostinghawk">https://www.cnblogs.com/roostinghawk</a></li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;就像Linus所言，Linux的创造仅仅因为“Just for Fun”。&lt;br&gt;我们学习IT技术的源泉也应该来自于与生俱来的好奇心和探索精神。&lt;/p&gt;
+&lt;p&gt;2021年国庆节的最后一天，我开启新的博客，这里将要分享的一切都将是好玩的东东（包括技术）！&lt;br&gt;Hope yo</summary>
+      
+    
+    
+    
+    
+    <category term="个人网站" scheme="http://example.com/tags/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/"/>
+    
+  </entry>
+  
+</feed>
